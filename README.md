@@ -26,3 +26,5 @@ cm2115-2025-lab-solutions
 You can clone this repo, or simply view the code on GitHub. Cloning will allow you to modify the code with your own updates, but you won't be able to push these updates - to do that, you'll need to make a fork into your on GitHub account.
 
 Either way, you can then recieve updates each week by either pulling (if you clone) or syncing upstream changes (if you fork).
+
+To run a project for a sepcific lab, expand that project's folder in the Solution Explorer in VSCode, open its ```Program.cs``` file and click the Run button.
